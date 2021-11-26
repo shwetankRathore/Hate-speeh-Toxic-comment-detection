@@ -25,6 +25,7 @@ We have used AUC_ROC Score to evaluate the performance of the models. These are 
 
 Model | Mean AUC_ROC Score
 --- | ---
-Support Vector Machines (Binary Relevance) | 0.6544
+Support Vector Machines (Binary Relevance) | 0.6375
+Support Vector Machines (Classifier Chains) | 0.6529
 Logistic Regression (Binary Relevance) | 0.6446
 Logistic Regression (Classifier Chains) | 0.6446
