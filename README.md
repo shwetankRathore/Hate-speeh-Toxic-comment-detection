@@ -8,7 +8,7 @@
 
 The dataset has been taken from Kaggle(https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
 
-It consists of two data files:
+Project consists of two data files:
 - train.csv: Contains comments with their labels (0 or 1).
 - preprocessed_data.csv: Obtained after preprocessing train.csv.
 
